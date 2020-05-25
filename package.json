@@ -2,6 +2,7 @@
 	"name": "@ctx-core/time",
 	"version": "4.1.17",
 	"description": "ctx-core time",
+	"type": "module",
 	"main": "lib.js",
 	"module": "lib.js",
 	"types": "lib.ts",
