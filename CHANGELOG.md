@@ -1,5 +1,15 @@
 # @ctx-core/time
 
+## 6.1.0
+
+### Minor Changes
+
+- \_timestamp_ms,hour_ms,minute_ms,month_ms,year_ms
+
+### Patch Changes
+
+- \_timestamp_ms: returns current new Date().getTime()
+
 ## 6.0.4
 
 ### Patch Changes
@@ -36,16 +46,16 @@
 
 - \_timestamp_milliseconds as \_milliseconds\_\_timestamp
 - \_since_time_text as \_text**time**since
-- month_milliseconds as milliseconds\_\_month
+- month_ms as milliseconds\_\_month
 - year_seconds as seconds\_\_year
 - day_seconds as seconds\_\_day
 - minute_seconds as seconds\_\_minute
 - month_seconds as seconds\_\_month
 - hour_seconds as seconds\_\_hour
-- day_milliseconds as milliseconds\_\_day
-- year_milliseconds as milliseconds\_\_year
-- hour_milliseconds as milliseconds\_\_hour
-- minute_milliseconds as milliseconds\_\_minute
+- day_ms as milliseconds\_\_day
+- year_ms as milliseconds\_\_year
+- hour_ms as milliseconds\_\_hour
+- minute_ms as milliseconds\_\_minute
 
 ## 5.0.5
 
