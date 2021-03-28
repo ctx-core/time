@@ -1,5 +1,11 @@
 # @ctx-core/time
 
+## 6.1.2
+
+### Patch Changes
+
+- fix: npm run compile: tsc -b .
+
 ## 6.1.1
 
 ### Patch Changes
