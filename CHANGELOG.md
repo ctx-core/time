@@ -1,5 +1,11 @@
 # @ctx-core/time
 
+## 6.1.3
+
+### Patch Changes
+
+- fix: npm publish: https://github.com/npm/cli/issues/2834
+
 ## 6.1.2
 
 ### Patch Changes
