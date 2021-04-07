@@ -1,5 +1,11 @@
 # @ctx-core/time
 
+## 6.1.5
+
+### Patch Changes
+
+- typescript: ^4.2.3 -> ^4.2.4
+
 ## 6.1.4
 
 ### Patch Changes
