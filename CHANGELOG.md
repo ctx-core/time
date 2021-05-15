@@ -1,5 +1,11 @@
 # @ctx-core/time
 
+## 6.2.0
+
+### Minor Changes
+
+- "noImplicitAny": true
+
 ## 6.1.6
 
 ### Patch Changes
