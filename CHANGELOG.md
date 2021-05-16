@@ -1,5 +1,11 @@
 # @ctx-core/time
 
+## 6.2.1
+
+### Patch Changes
+
+- fix: target: 2018: nodejs compatability
+
 ## 6.2.0
 
 ### Minor Changes
