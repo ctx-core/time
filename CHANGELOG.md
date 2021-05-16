@@ -1,5 +1,11 @@
 # @ctx-core/time
 
+## 6.2.2
+
+### Patch Changes
+
+- .npmignore: + ~
+
 ## 6.2.1
 
 ### Patch Changes
