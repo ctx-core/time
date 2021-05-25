@@ -1,5 +1,11 @@
 # @ctx-core/time
 
+## 6.4.0
+
+### Minor Changes
+
+- fix tsc build directory issues
+
 ## 6.3.1
 
 ### Patch Changes
