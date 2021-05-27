@@ -1,5 +1,11 @@
 # @ctx-core/time
 
+## 6.4.1
+
+### Patch Changes
+
+- update dependencies
+
 ## 6.4.0
 
 ### Minor Changes
