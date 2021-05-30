@@ -9,7 +9,7 @@ import { minute_seconds } from './minute_seconds'
  * @returns {string}
  * @see {@link https://stackoverflow.com/questions/3177836/how-to-format-time-since-xxx-e-g-4-minutes-ago-similar-to-stack-exchange-site#answer-3177838}
  */
-export function _since_time_text(date:Date) {
+export function since_time_text_(date:Date) {
 	const seconds = Math.floor(
 		(new Date().getTime() - date.getTime())
 		/ 1000
@@ -37,5 +37,6 @@ export function _since_time_text(date:Date) {
 	return `${Math.floor(seconds)} seconds`
 }
 export {
-	_since_time_text as _text__time__since
+	since_time_text_ as _since_time_text,
+	since_time_text_ as _text__time__since,
 }

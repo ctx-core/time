@@ -1,5 +1,12 @@
 # @ctx-core/time
 
+## 7.0.0
+
+### Major Changes
+
+- \$ suffix for stores
+- \_ suffix for factory functions
+
 ## 6.4.1
 
 ### Patch Changes
