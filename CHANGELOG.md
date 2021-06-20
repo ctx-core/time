@@ -1,5 +1,11 @@
 # @ctx-core/time
 
+## 8.0.5
+
+### Patch Changes
+
+- "prepare": "npm run clean && npm run compile"
+
 ## 8.0.4
 
 ### Patch Changes
