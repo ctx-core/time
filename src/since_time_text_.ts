@@ -1,8 +1,8 @@
-import { year_seconds } from './year_seconds'
-import { month_seconds } from './month_seconds'
-import { day_seconds } from './day_seconds'
-import { hour_seconds } from './hour_seconds'
-import { minute_seconds } from './minute_seconds'
+import { year_seconds } from './year_seconds.js'
+import { month_seconds } from './month_seconds.js'
+import { day_seconds } from './day_seconds.js'
+import { hour_seconds } from './hour_seconds.js'
+import { minute_seconds } from './minute_seconds.js'
 /**
  *
  * @param date

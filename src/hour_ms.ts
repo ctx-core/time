@@ -1,4 +1,4 @@
-import { hour_seconds } from './hour_seconds'
+import { hour_seconds } from './hour_seconds.js'
 export const hour_ms = hour_seconds * 1000
 export {
 	hour_ms as hour_milliseconds,
