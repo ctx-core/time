@@ -1,5 +1,11 @@
 # @ctx-core/time
 
+## 9.0.27
+
+### Patch Changes
+
+- fix: tsconfig.json: "rootDir": "."
+
 ## 9.0.26
 
 ### Patch Changes
