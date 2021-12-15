@@ -1,5 +1,11 @@
 # @ctx-core/time
 
+## 9.0.25
+
+### Patch Changes
+
+- package.json: svelte: ./dist/index.js
+
 ## 9.0.24
 
 ### Patch Changes
