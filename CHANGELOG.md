@@ -1,5 +1,11 @@
 # @ctx-core/time
 
+## 9.0.31
+
+### Patch Changes
+
+- tsconfig.json: "target": "ES2021"
+
 ## 9.0.30
 
 ### Patch Changes
