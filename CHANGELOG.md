@@ -1,5 +1,11 @@
 # @ctx-core/time
 
+## 9.0.33
+
+### Patch Changes
+
+- .js + .d.ts instead of .ts
+
 ## 9.0.32
 
 ### Patch Changes
