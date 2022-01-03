@@ -1,5 +1,11 @@
 # @ctx-core/time
 
+## 9.0.34
+
+### Patch Changes
+
+- version bump
+
 ## 9.0.33
 
 ### Patch Changes
