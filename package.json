@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/time",
-	"version": "9.0.35",
+	"version": "9.0.36",
 	"description": "ctx-core time",
 	"keywords": [
 		"ctx-core",
@@ -44,5 +44,6 @@
 		"access": "public",
 		"cache": "~/.npm"
 	},
-	"svelte": "./lib/index.js"
+	"svelte": "./lib/index.js",
+	"sideEffects": false
 }

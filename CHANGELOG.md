@@ -1,5 +1,11 @@
 # @ctx-core/time
 
+## 9.0.36
+
+### Patch Changes
+
+- sideEffects = false
+
 ## 9.0.35
 
 ### Patch Changes
