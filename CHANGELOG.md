@@ -1,5 +1,11 @@
 # @ctx-core/time
 
+## 9.0.37
+
+### Patch Changes
+
+- package.json: exports: update
+
 ## 9.0.36
 
 ### Patch Changes
