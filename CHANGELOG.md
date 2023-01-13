@@ -1,5 +1,11 @@
 # @ctx-core/time
 
+## 9.0.39
+
+### Patch Changes
+
+- rimraf: ^4.0.1 -> ^4.0.4
+
 ## 9.0.38
 
 ### Patch Changes
