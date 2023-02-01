@@ -1,5 +1,11 @@
 # @ctx-core/time
 
+## 9.0.41
+
+### Patch Changes
+
+- @swc/core: ^1.3.31 -> ^1.3.32
+
 ## 9.0.40
 
 ### Patch Changes
