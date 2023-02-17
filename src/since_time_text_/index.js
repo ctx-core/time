@@ -1,19 +1,15 @@
-import { year_seconds } from './year_seconds.js'
-import { month_seconds } from './month_seconds.js'
-import { day_seconds } from './day_seconds.js'
-import { hour_seconds } from './hour_seconds.js'
-import { minute_seconds } from './minute_seconds.js'
+import { year_seconds } from '../year_seconds/index.js'
+import { month_seconds } from '../month_seconds/index.js'
+import { day_seconds } from '../day_seconds/index.js'
+import { hour_seconds } from '../hour_seconds/index.js'
+import { minute_seconds } from '../minute_seconds/index.js'
 /**
- *
- * @param date
+ * @param date{Date}
  * @returns {string}
  * @see {@link https://stackoverflow.com/questions/3177836/how-to-format-time-since-xxx-e-g-4-minutes-ago-similar-to-stack-exchange-site#answer-3177838}
  */
-export function since_time_text_(date:Date) {
-	const seconds = Math.floor(
-		(new Date().getTime() - date.getTime())
-		/ 1000
-	)
+export function since_time_text_(date) {
+	const seconds = Math.floor((new Date().getTime() - date.getTime()) / 1000)
 	let interval = Math.floor(seconds / year_seconds)
 	if (interval > 1) {
 		return `${interval} years`

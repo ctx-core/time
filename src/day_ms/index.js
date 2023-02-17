@@ -1,4 +1,4 @@
-import { day_seconds } from './day_seconds.js'
+import { day_seconds } from '../day_seconds/index.js'
 export const day_ms = day_seconds * 1000
 export {
 	day_ms as day_milliseconds,
