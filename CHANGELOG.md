@@ -1,5 +1,15 @@
 # @ctx-core/time
 
+## 9.2.4
+
+### Patch Changes
+
+- package.json: files:
+
+      *.d.ts
+      *.js
+      *.json
+
 ## 9.2.3
 
 ### Patch Changes
