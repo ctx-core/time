@@ -1,5 +1,13 @@
 # @ctx-core/time
 
+## 9.2.3
+
+### Patch Changes
+
+- package.json: files: + \*.js
+- Updated dependencies
+  - ctx-core@2.2.2
+
 ## 9.2.2
 
 ### Patch Changes
