@@ -1,5 +1,14 @@
 # @ctx-core/time
 
+## 9.2.7
+
+### Patch Changes
+
+- Updated dependencies
+- Updated dependencies
+- Updated dependencies
+  - ctx-core@3.0.0
+
 ## 9.2.6
 
 ### Patch Changes
