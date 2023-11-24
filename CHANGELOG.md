@@ -1,5 +1,11 @@
 # @ctx-core/time
 
+## 9.2.25
+
+### Patch Changes
+
+- tsx: ^4.3.0 -> ^4.4.0
+
 ## 9.2.24
 
 ### Patch Changes
