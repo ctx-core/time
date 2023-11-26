@@ -1,5 +1,11 @@
 # @ctx-core/time
 
+## 9.2.28
+
+### Patch Changes
+
+- ctx-core: ^4.6.0 -> ^4.6.1
+
 ## 9.2.27
 
 ### Patch Changes
